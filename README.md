@@ -41,7 +41,15 @@ This project emphasizes teamwork, skill application, and real-world problem-solv
 
 <img width="992" alt="Screenshot 2024-12-28 at 2 17 54 PM" src="https://github.com/user-attachments/assets/bdf0837e-5f3c-47df-a55a-ab70d0d174f1" />
 
+# REFLECTION 
 
+Working on this project allowed me to explore and enhance my technical skills, particularly in using tools like Autodesk Inventor and Microsoft Excel. The objective of designing a 3D model and creating a decision information system challenged me to think critically and creatively, especially when faced with learning a new software platform.
+
+My role involved preparing and editing the 3D design as well as developing a functional prototype. This was not without its challenges, as I had to learn the software from scratch and ensure the accuracy of the information presented. To overcome these obstacles, I relied on online tutorials and a trial-and-error approach, which not only helped me achieve my goals but also deepened my problem-solving skills.
+
+The outcome of the project—a functional 3D design—was both rewarding and insightful. It demonstrated the practical application of design tools in creating solutions that could be implemented in real-world scenarios. Moreover, the project strengthened my understanding of decision information systems and their importance in managing complex data efficiently.
+
+Reflecting on this experience, I realize how valuable it was in shaping my analytical thinking and technical expertise. It has also motivated me to continue developing these skills for future projects and challenges.
 
 
 
